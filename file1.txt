@@ -3,3 +3,5 @@ data2 -- commit2
 Data3 -- commit 3
 data4 - commit4 - branch1
 data5 - commit4' - branch1
+data from Master branch
+last data for new commit
